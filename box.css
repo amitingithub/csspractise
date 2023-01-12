@@ -18,9 +18,13 @@ p{
 .demobox-1{
     background-color: white;
     margin-left: 100px;
+    width: 400px;
+    box-sizing: border-box;
+    overflow: scroll;
 }
 
 .demobox-2{
     background-color: green;
     margin: 0px;
+    padding-bottom: 50px;
 }
