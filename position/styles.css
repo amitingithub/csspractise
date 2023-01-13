@@ -1,0 +1,24 @@
+h1, h2{
+    position:static;
+    /* display: inline-block; */
+    /* width: 200px;
+    height: 200px; */
+    display: inline-block;
+    background-color: aqua;
+    margin: 50;
+    padding: 0;
+}
+
+p{
+    position:relative;
+    top: 100px;
+    left: 50px;
+    /* display: inline-block; */
+    /* width: 200px;
+    height: 200px; */
+    display: inline-block;
+    background-color: aqua;
+    margin: 50;
+    padding: 0;
+    transform: skew(5deg,50deg);
+}
